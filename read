@@ -1,0 +1,6 @@
+package.json相当于gradle。
+
+将里面的包下载，使用npm：
+
+npm  install
+
